@@ -1,6 +1,8 @@
 #include <iostream>
+#include "shakki.h"
+#include "asema.h"
 
-int main() 
+int main()
 {
-
+    return 0;
 }
