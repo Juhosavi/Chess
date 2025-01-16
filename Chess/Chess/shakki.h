@@ -1,13 +1,24 @@
-#pragma once
+﻿#pragma once
 
 // Pelaajat.
 enum { VALKEA, MUSTA };
 
-// Vakioarvot eri nappululoille (NA = tyhj� ruutu).
+// Vakioarvot eri nappululoille (NA = tyhjä ruutu).
 enum { wR, wN, wB, wQ, wK, wP, bR, bN, bB, bQ, bK, bP, NA };
 
-// Palauttaa annetun nappulan v�rin (VALKEA, MUSTA).
+// Palauttaa annetun nappulan värin (VALKEA, MUSTA).
 int nappulan_vari(int nappula);
 
 // Palauttaa pelaajan vastustajan.
 int vastustaja(int pelaaja);
+
+//Merkit
+♜♞♝♛♚♝♞♜
+♟♟♟♟♟♟♟♟
+□■□■□■□■
+■□■□■□■□
+□■□■□■□■
+■□■□■□■□
+♙♙♙♙♙♙♙♙
+♖♘♗♕♔♗♘♖
+//
