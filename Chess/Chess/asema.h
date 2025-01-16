@@ -40,7 +40,10 @@ public:
 
 	// LÄKSY
 	// Tyhjentää laudan.
-	void tyhjenna();
+	void tyhjenna() 
+	{
+
+	}
 
 	// LÄKSY
 	// Tulosta lauta ascii-grafiikkana (mahdollisesti flagit

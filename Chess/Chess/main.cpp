@@ -1,1 +1,6 @@
-//paskaa testi
+#include <iostream>
+
+int main() 
+{
+
+}
